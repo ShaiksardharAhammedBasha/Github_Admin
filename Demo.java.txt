@@ -1,12 +1,18 @@
 Class Demo 
+
+	// Method m1 
 	{
 	public void m1() {
 
 	}
 
+	// method 2
+
 	public void developer2() {
 	
 	}	
+
+	// new Joinee Method
 	
 	public void newJoinee() {
 	

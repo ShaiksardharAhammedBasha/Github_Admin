@@ -7,5 +7,9 @@ Class Demo
 	public void developer2() {
 	
 	}	
+	
+	public void newJoinee() {
+	
+	}
 
 }

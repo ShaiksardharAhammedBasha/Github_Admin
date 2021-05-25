@@ -1,6 +1,11 @@
-Class Demo {
+Class Demo 
+	{
 	public void m1() {
 
 	}
+
+	public void developer2() {
+	
+	}	
 
 }
